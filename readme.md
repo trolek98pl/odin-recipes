@@ -1,0 +1,1 @@
+This is a solution to project called 'Recipes' from The Odin Project website.
