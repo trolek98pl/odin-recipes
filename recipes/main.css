@@ -1,0 +1,38 @@
+/* CSS */
+/* body CSS */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+    color: blue;
+}
+
+/* img css */
+img {
+    height: auto;
+    width: 360px;
+}
+
+/* a csss */
+a {
+    font-weight: 900;
+}
+
+/* h1 css */
+h1 {
+    font-size: 36px;
+}
+
+/* h2 css */
+h2 {
+    font-size: 24px;
+}
+
+/* p css */
+p {
+    font-size: 16px;
+}
+
+/* special class from name of part of idh */
+.dish_parts {
+    color: black;
+}
